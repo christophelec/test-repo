@@ -1,7 +1,7 @@
 import connexion
-from swaggerserver.models.body_3 import Body3
-from swaggerserver.models.body_4 import Body4
-from swaggerserver.models.body_5 import Body5
+from swaggerservernew.models.body_3 import Body3
+from swaggerservernew.models.body_4 import Body4
+from swaggerservernew.models.body_5 import Body5
 from datetime import date, datetime
 from typing import List, Dict
 from six import iteritems
